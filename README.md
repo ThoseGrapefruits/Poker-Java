@@ -1,4 +1,4 @@
 Poker
 ==========
 ####Java
-Poker game project for programming class.
+This is the repository for a Java-based poker game project for programming class.
